@@ -18,3 +18,4 @@
 💬 Let's Connect:
 
 ![Discord](https://img.shields.io/badge/Discord-d5__p-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
