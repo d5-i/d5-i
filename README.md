@@ -17,4 +17,4 @@
 
 💬 Let's Connect:
 
-![Discord](https://img.shields.io/badge/Discord-d5_p-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-d5__p-7289DA?style=for-the-badge&logo=discord&logoColor=white)
