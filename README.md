@@ -11,4 +11,3 @@
 ---
 
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=d5-i.d5-i)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/d5-i/&title=Profile%20Views)
