@@ -18,6 +18,7 @@
 ![Parrot Security](https://img.shields.io/badge/Parrot_Security-0F96D6?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Root-Me](https://img.shields.io/badge/Root--Me-Cybersecurity-darkblue?style=for-the-badge&logo=rootme&logoColor=white)
 
 💻 Skills:
 
