@@ -9,6 +9,16 @@
 💬 **Discord:** `d5_p`
 
 ---
+
+# 🌟 Favorite Operating Systems
+
+💻 **Here are the operating systems I love:**
+
+![Parrot Security](https://img.shields.io/badge/Parrot_Security-0F96D6?style=for-the-badge&logo=parrotsecurity&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 💻 Skills:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,4 +28,3 @@
 💬 Let's Connect:
 
 ![Discord](https://img.shields.io/badge/Discord-d5__p-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
