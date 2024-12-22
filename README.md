@@ -15,4 +15,6 @@
 ![VBScript](https://img.shields.io/badge/VBScript-4B0082?style=for-the-badge&logo=windows&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=d5-i)
+💬 Let's Connect:
+
+![Discord](https://img.shields.io/badge/Discord-d5_p-7289DA?style=for-the-badge&logo=discord&logoColor=white)
