@@ -4,7 +4,7 @@
 
 ---
 
-❤️ **Expert in Python & VB.Net & VBScript**  
+💻 **Expert in Python & VB.Net & VBScript**  
 ❌ **Development of RAT & MALWARE Programs**  
 💬 **Discord:** `d5_p`
 
@@ -19,7 +19,7 @@
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-💻 Skills:
+🌟 Skills:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VBScript](https://img.shields.io/badge/VBScript-4B0082?style=for-the-badge&logo=windows&logoColor=white)
