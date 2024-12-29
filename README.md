@@ -5,7 +5,7 @@
 ---
 
 💻 **Expert in Python & VB.Net & VBScript**  
-❌ **Development of RAT & MALWARE Programs**  
+❌ **Development of Rat & Malware & Hacking Tools**  
 💬 **Discord:** `d5_p`
 
 ---
