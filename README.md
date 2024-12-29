@@ -1,6 +1,6 @@
 # 👋 Hi, I'm A8Fit  
-💻 # I'm interested in Hacking  
-🎭 # Programming And Hacking  
+💻 I'm interested in Hacking  
+💻 Programming And Hacking  
 
 ---
 
