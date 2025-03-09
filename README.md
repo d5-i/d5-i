@@ -23,6 +23,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![VBScript](https://img.shields.io/badge/VBScript-4B0082?style=for-the-badge&logo=windows&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![CSharp](https://img.shields.io/badge/CSharp-4B0082?style=for-the-badge&logo=csharp&logoColor=white)
+![Visual Studio 2012](https://img.shields.io/badge/Visual%20Studio%202012-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio 2022](https://img.shields.io/badge/Visual%20Studio%202022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Studio Code 2022](https://img.shields.io/badge/VS%20Code%202022-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Root-Me](https://img.shields.io/badge/Root--Me-Cybersecurity-darkblue?style=for-the-badge&logo=rootme&logoColor=white)
 
 💬 Let's Connect:
