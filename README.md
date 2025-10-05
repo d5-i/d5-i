@@ -4,7 +4,7 @@
 
 ---
 
-💻 **Programmer Python & Visual Bsaic & VBScript & CSharp**  
+💻 **Programmer Python & Visual Basic & VBScript & CSharp**  
 ❌ **Development of Malware & Hacking Tools**  
 💬 **Discord:** `d5_p`
 
