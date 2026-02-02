@@ -6,7 +6,7 @@
 
 💻 **Programmer Python & Visual Basic & VBScript & CSharp**  
 ❌ **Development of Malware & Hacking Tools**  
-💬 **Discord:** `d5_p`
+💬 **Discord:** `A8Fit`
 
 ---
 
@@ -25,10 +25,10 @@
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23_CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Visual Bsaic](https://img.shields.io/badge/Visual%20Basic-3A75C4?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual%20Basic-3A75C4?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Root-Me](https://img.shields.io/badge/Root--Me-Cybersecurity-darkblue?style=for-the-badge&logo=rootme&logoColor=white)
 
 💬 Let's Connect:
 
-![Discord](https://img.shields.io/badge/Discord-d5__p-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-A8Fit-7289DA?style=for-the-badge&logo=discord&logoColor=white)
