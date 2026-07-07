@@ -11,9 +11,6 @@
 
 ![Microsoft Windows](https://img.shields.io/badge/Microsoft_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Parrot Security](https://img.shields.io/badge/Parrot_Security-0F96D6?style=for-the-badge&logo=parrotsecurity&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-
  Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
