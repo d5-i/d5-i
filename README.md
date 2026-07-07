@@ -11,6 +11,7 @@
 
 ![Microsoft Windows](https://img.shields.io/badge/Microsoft_Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Parrot Security](https://img.shields.io/badge/Parrot_Security-0F96D6?style=for-the-badge&logo=parrotsecurity&logoColor=white)
+
  Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
