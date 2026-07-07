@@ -4,10 +4,7 @@
 
 ---
 
-./ **Programmer Python & Visual Basic & VBScript & CSharp**  
-./ **Development of Malware & Hacking Tools**  
-./ **Discord:** `A8Fit`
-
+./ Malware Analyst & Malware Developer
 ---
 
  Virtual Systems
